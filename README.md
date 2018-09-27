@@ -10,6 +10,7 @@ User features
 transactions he has been involved with.
 7. User can query the offers related to a particular product.
 8. User should be able to get a sorted list of products based on prices.
+
 Admin features
 
 1. Maintain customer information (whatever you can think of :P)
@@ -22,6 +23,7 @@ washing product, grooming, clothes etc.), date at which it was bought etc.
 duration.
 7. Maintain the quantity of products and increment/decrement them as per need.
 8. Add/remove a particular type of product.
+
 Advanced features
 
 1. Discounts always attract users. Give a discount to those users who have bought worth
